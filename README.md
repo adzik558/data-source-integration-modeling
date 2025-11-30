@@ -9,6 +9,21 @@ oraz stworzenie modelu pozwalającego na predykcję wskaźnika CPI.
 Projekt realizowany w ramach studiów – Inżynieria i Analiza Danych.
 
 
+## Struktura repozytorium
+
+## Struktura repozytorium
+
+```plaintext
+data-source-integration-modeling/
+├── README.md
+├── data-source-integration-modeling.xlsm
+├── data/
+|   └── sample.xlsm
+└── plots/
+    └── done.png
+
+```
+
 ## Cele projektu
 
 - integracja danych z wielu źródeł (ceny produktów z GUS + wskaźnik inflacji),
